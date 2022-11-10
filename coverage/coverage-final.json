@@ -1,0 +1,2 @@
+{"/Users/saadshafiq/unitTesting/js/add.js": {"path":"/Users/saadshafiq/unitTesting/js/add.js","statementMap":{"0":{"start":{"line":3,"column":1},"end":{"line":3,"column":13}},"1":{"start":{"line":5,"column":0},"end":{"line":5,"column":20}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":2,"column":9},"end":{"line":2,"column":12}},"loc":{"start":{"line":2,"column":18},"end":{"line":4,"column":1}},"line":2}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"a6641ceee11337bd3e62021c307c3226b5aa5e30"}
+}
